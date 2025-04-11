@@ -103,6 +103,7 @@ section {
   }
   .course-work ul {
     padding: 20px 0 0 15px;
+    text-align: left;
   }
   .location--1 {
     margin: -15px -15px 0 -15px;

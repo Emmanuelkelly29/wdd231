@@ -9,7 +9,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f4f4f4;
-  text-align:left;
+  text-align:center;
 }
 
 @media (min-width: 768px) {
@@ -70,6 +70,7 @@ body {
   }
   .course-work ul {
     padding: 20px 0 0 15px;
+    text-align: left;
   }
   .location {
     width: 18rem;
